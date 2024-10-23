@@ -1,2 +1,2 @@
 # algorithms_psets
-Solving algorithms psets using C++
+Solving algorithms psets
